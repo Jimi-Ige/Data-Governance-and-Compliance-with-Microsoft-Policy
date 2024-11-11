@@ -1,7 +1,7 @@
 # Data-Governance-and-Compliance-with-Azure Policy
 This project demonstrates governance and compliance enforcement using Azure Policy. The lab focuses on creating, assigning, and managing policies and initiatives to ensure Azure resources align with organizational standards.
 
-**Overview:**
+**Overview:** This lab demonstrates how to use Azure Policy to enforce governance standards and compliance requirements across your Azure resources. By defining and assigning policies, you can ensure resources align with your organization's governance goals.
 
 **Prerequisites:**
 ✅ Active Azure subscription with Policy access (Free account, Student account, or paid subscription).
