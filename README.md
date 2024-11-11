@@ -11,13 +11,13 @@ This project demonstrates governance and compliance enforcement using Azure Poli
 
 **High-Level Steps with Explanations:**
 
- **1. 
+ **1. Assigned tags via the Azure portal
 
- **2. 
+ **2. Enforced tagging via an Azure Policy
 
- **3.
+ **3. Applied tagging via an Azure policy
 
- **4. 
+ **4. Configured and tested resource locks
 
 **Reference Link(s):**
 * https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.html
